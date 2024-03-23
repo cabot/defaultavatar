@@ -1,4 +1,4 @@
-# damaioconfiguration
+# Default avatar
 Simple phpBB extension to display no_avatar.gif in topics and pm's if user has no avatar
 
 ## Minimum Requirements
