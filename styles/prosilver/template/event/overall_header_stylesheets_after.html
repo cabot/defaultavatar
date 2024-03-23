@@ -1,0 +1,18 @@
+{% if S_VIEWTOPIC or S_VIEW_MESSAGE %}
+<style>
+.no-avatar .avatar-container {
+	background: url("{{ T_THEME_PATH }}/images/no_avatar.gif") no-repeat 0 0 / cover;
+	aspect-ratio: 1;
+	height: 80px;
+	margin: 0 0 3px 0;
+}
+
+@media (max-width: 700px) {
+	.no-avatar .avatar-container {
+		float: left;
+		height: 32px;
+		margin: 0 5px 0 0;
+	}
+}
+</style>
+{% endif %}
