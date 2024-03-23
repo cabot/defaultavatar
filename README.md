@@ -26,4 +26,4 @@ Simple phpBB extension to display no_avatar.gif in topics and pm's if user has n
 ## License
 [GNU General Public License v2](http://opensource.org/licenses/GPL-2.0)
 
-© 2023 - cabot
+© 2024 - cabot
